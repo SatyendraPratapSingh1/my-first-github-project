@@ -29,3 +29,7 @@ My first project to learn GitHub from scratch.
 
 I am learning Git and GitHub using practical projects.
 
+Made and saved the changes on the desktop.
+
+
+
